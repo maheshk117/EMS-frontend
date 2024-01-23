@@ -1,0 +1,22 @@
+                                         EMS Frontend Creation
+                               ----------------------------------------
+
+           1.Create a new project - npx create-react-app ems-frontend
+           2.cd ems-frontend
+           3.Clear the unwanted code
+           5.Run project npm start
+           6.Install 3rd party packages
+                   -fontawesome
+                   -google fonts
+                   -react bootstrap/mdb bootstrap
+                   -bootswatch
+           7. Components Creation 
+                   -Admin
+                   -Add
+                   -View
+                   -Edit
+                   -PageNotFound
+           8. Setup path
+              react-router-dom
+                              
+
